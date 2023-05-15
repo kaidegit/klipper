@@ -5238,7 +5238,7 @@ typedef struct
 
 
 
-#include "ch32v30x_conf.h"
+// #include "ch32v30x_conf.h"
 
 
 #ifdef __cplusplus
